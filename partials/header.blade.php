@@ -20,6 +20,7 @@
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/contact">Contact</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/examples") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/examples">Examples</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/citeus") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/citeus">Cite Us</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/citedpubs") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/citedpubs">Search SRA Supported Publications</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
