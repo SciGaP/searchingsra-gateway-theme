@@ -6,7 +6,9 @@
 
         <p style="font-size:18px; margin-top:20px;" align="left">
         It is critical for bioinformaticians to have their work cited, Some of the publications which used our Gateway and cited us.
+        <br>
         Thank you! Happy to be part of it!!!
+        <br>
         Please be sure to not only cite searchsra.org, but to also cite the tools that we have used to build this amazing resource.
         </p>
 
